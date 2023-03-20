@@ -1,3 +1,4 @@
+//Author: spasemax0
 import java.util.Scanner;
 public class DiceMatchingGame {
 
